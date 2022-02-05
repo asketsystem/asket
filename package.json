@@ -1,0 +1,15 @@
+{
+  "name": "asket",
+  "version": "1.0.0",
+  "description": "This is a CLI to launch an interactive development environment for writing and documenting code",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=development"
+  },
+  "author": "Asketsystem",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "5.11.1",
+    "webpack-cli": "4.3.0"
+  }
+}
